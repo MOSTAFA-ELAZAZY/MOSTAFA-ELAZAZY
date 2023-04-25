@@ -14,12 +14,13 @@ Hi there 👋, I'm Eslam from Egypt, and I'm working in the Software Development
 *	MSSQL DB
 *	HTML & CSS & JavaScript & Bootstrap
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MOSTAFA-ELAZAZY&theme=tokyonight&count_private=true&hide=HTML,CSS,SCSS,javascript&langs_count=3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOSTAFA-ELAZAZY&theme=tokyonight&count_private=true&hide=HTML,CSS,javascript&langs_count=3" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=MOSTAFA-ELAZAZY&show_icons=true&theme=tokyonight&count_private=true&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MOSTAFA-ELAZAZY&show_icons=true&theme=tokyonight&count_private=true&show_icons=true" />
-</a>
+
+<img align="left" width="47%"
+src="https://github-readme-stats.vercel.app/api?username=MOSTAFA-ELAZAZY&show_icons=true&theme=radical"
+/>
+<img align="left" width="47%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOSTAFA-ELAZAZY&hide_progress=true"
+ />
 
 
 <!--
