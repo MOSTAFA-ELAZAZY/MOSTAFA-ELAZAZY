@@ -1,15 +1,15 @@
 # Mostafa Elazazy
 ![](https://komarev.com/ghpvc/?username=MOSTAFA-ELAZAZY&color=blue)
 
-Hi there 👋, I'm Eslam from Egypt, and I'm working in the Software Development field as a .Net Developer Creating (Desktop and Web Apps). I really enjoy learning languages and frameworks. I do care about writing clean and maintainable code.
+Hi there 👋, I'm Mostafa from Egypt, and I'm working in the Software Development field as a .Net Developer Creating (Desktop and Web Apps). I really enjoy learning languages and frameworks. I do care about writing clean and maintainable code.
 
-- 🔭 I’m currently working on WPF .Net Core Related Projects
+- 🔭 I’m currently working on .Net Core and Angluar 
 - 👯 I’m looking to collaborate on .Net Projects
 - 📫 You can reach me: via [LinkedIn](https://www.linkedin.com/in/mostafa-elazazy-9551241a8/) or Email me to mostafamamdoh20101@gmail.com
 
 ## Skills and Experience
-*	WPF & ASP.Net Core & MVC
-*	C# & VB.net & Python
+*	ASP.Net Core & MVC & Angluar
+*	C# & VB.net & Jave &Python
 *	Visual studio 2022 (live share, Git tools, Adv. Debugging, Testing, Code Analysis)
 *	MSSQL DB
 *	HTML & CSS & JavaScript & Bootstrap
