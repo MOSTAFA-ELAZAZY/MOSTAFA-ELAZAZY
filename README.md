@@ -5,7 +5,7 @@ Hi there 👋, I'm Eslam from Egypt, and I'm working in the Software Development
 
 - 🔭 I’m currently working on WPF .Net Core Related Projects
 - 👯 I’m looking to collaborate on .Net Projects
-- 📫 You can reach me: via [LinkedIn](https://www.linkedin.com/in/eslam-sallam-3312b0173/) or Email me to eslam.salam1369@gmail.com
+- 📫 You can reach me: via [LinkedIn](https://www.linkedin.com/in/mostafa-elazazy-9551241a8/) or Email me to mostafamamdoh20101@gmail.com
 
 ## Skills and Experience
 *	WPF & ASP.Net Core & MVC
